@@ -1,6 +1,6 @@
 ## Testing Problem
 
-_Formulate the testing problem that is currently not solvable by _jqwik_
+_Formulate the testing problem that is currently not solvable by _jqwik-weld_
 or not solvable in a simple enough way._
 
 ## Suggested Solution
